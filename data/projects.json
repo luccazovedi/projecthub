@@ -1,6 +1,25 @@
 {
   "version": "1.0",
   "createdAt": "2026-06-16T00:19:38.865Z",
-  "updatedAt": "2026-06-16T00:19:38.865Z",
-  "projects": []
+  "updatedAt": "2026-06-16T00:20:18.595Z",
+  "projects": [
+    {
+      "id": "e18690c4-3a19-4e19-b011-d2e933a3f5d1",
+      "createdAt": "2026-06-16T00:20:18.595Z",
+      "contracts": [],
+      "comments": [],
+      "versions": [],
+      "contractorToken": null,
+      "name": "Vitor Eletricista",
+      "client": "Vitor",
+      "description": "",
+      "status": "completed",
+      "startDate": null,
+      "dueDate": null,
+      "progress": 0,
+      "phase": "planning",
+      "githubRepo": "luccazovedi/Vitor-Eletricista",
+      "updatedAt": "2026-06-16T00:20:18.595Z"
+    }
+  ]
 }
