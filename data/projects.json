@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "createdAt": "2026-06-16T00:19:38.865Z",
-  "updatedAt": "2026-06-16T00:38:55.315Z",
+  "updatedAt": "2026-06-16T00:39:02.093Z",
   "projects": [
     {
       "id": "e18690c4-3a19-4e19-b011-d2e933a3f5d1",
@@ -13,13 +13,13 @@
       "name": "Vitor Eletricista",
       "client": "Vitor",
       "description": "",
-      "status": "completed",
+      "status": "archived",
       "startDate": null,
       "dueDate": null,
       "progress": 100,
       "phase": "planning",
       "githubRepo": "luccazovedi/Vitor-Eletricista",
-      "updatedAt": "2026-06-16T00:38:55.315Z"
+      "updatedAt": "2026-06-16T00:39:02.093Z"
     },
     {
       "id": "d403df57-58e3-4859-9f5b-bb2751cfffdf",
